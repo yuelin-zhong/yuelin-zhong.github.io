@@ -43,8 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Yuelin Zhong.'
-    url: 'https://www.google.com'
+    notice: '© {year} Yuelin Zhong. <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">Testing</a>'
     license:
       enable: false
       allow_derivatives: false
