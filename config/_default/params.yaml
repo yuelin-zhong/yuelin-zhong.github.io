@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Yuelin Zhong <a href="https://drive.google.com/uc?export=download&id=1VBn-2YEbxycIA90z9V2LDPN6DZWE48l4" rel="noopener noreferrer" target="_blank">❤</a>'.
+    notice: '© {year} Yuelin Zhong <a href="https://drive.google.com/uc?export=download&id=1VBn-2YEbxycIA90z9V2LDPN6DZWE48l4" rel="noopener noreferrer" target="_blank">❤</a>.'
     license:
       enable: false
       allow_derivatives: false
