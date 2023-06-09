@@ -10,12 +10,12 @@ last_name: Zhong
 superuser: true
 
 # Role/position/tagline
-role: Immunology Research Assistant at Boston Children's Hospital
+role: Immunology PhD Student at Tufts University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Boston Children's Hospital
-    url: https://www.childrenshospital.org/
+  - name: Tufts University
+    url: https://gsbs.tufts.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include research immunology, big data and innovative biotechnologies.
@@ -29,6 +29,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Immunology
+      institution: Tufts University
     - course: BA in Biology and Statistics (Biostatistics Concentration). Minor in Psychology
       institution: University of Virginia
       year: 2020
