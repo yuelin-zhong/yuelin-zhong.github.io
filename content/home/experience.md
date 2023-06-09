@@ -28,7 +28,7 @@ experience:
     # company_logo: org-gc
     location: Boston, MA
     date_start: '2022-10-01'
-    date_end: ''
+    date_end: '2023-05-31'
     description: |2-
         Research Area:
 
