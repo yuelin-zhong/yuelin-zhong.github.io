@@ -75,6 +75,6 @@ email: ''
 highlight_name: true
 ---
 
-Yuelin Zhong is an immunology research assistant at Boston Children's Hospital. She earned her Bachelor's degree from University of Virginia. Major in Biology (B.A) & Statistics (Biostatistics Concentration). Minor in Psychology. Her interests include research immunology, big data, and innovative biotechnologies.
+Before joining Tufts, Yuelin Zhong was an immunology research assistant at Boston Children's Hospital. She earned her Bachelor's degree from University of Virginia. Major in Biology (B.A) & Statistics (Biostatistics Concentration). Minor in Psychology. Her interests include research immunology, big data, and innovative biotechnologies.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
