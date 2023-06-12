@@ -13,7 +13,7 @@ address:
   country: United States
 
 summary: Targeting glutamine metabolism mitigates Foxp3-deficiency mediated disease
-abstract: 'TODO'
+abstract: 'Abstract will be available once the paper is published.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -35,11 +35,11 @@ image:
   focal_point: Right
 
 links:
-  - name: Poster
-    url: 'uploads/resume.pdf'
+  # - name: Poster
+  #   url: 'uploads/resume.pdf'
 url_code: ''
 url_pdf: ''
-url_slides: 'uploads/AAI_presentation.pptx'
+url_slides: ''
 url_video: ''
 
 # Markdown Slides (optional).
