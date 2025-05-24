@@ -10,7 +10,7 @@ last_name: Zhong
 superuser: true
 
 # Role/position/tagline
-role: Immunology PhD Student at Tufts University
+role: Immunology PhD Candidate at Tufts University
 
 # Organizations/Affiliations to show in About widget
 organizations:

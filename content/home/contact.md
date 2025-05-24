@@ -30,7 +30,7 @@ content:
   address:
     city: Boston
     region: MA
-    postcode: '02131'
+    # postcode: '02131'
     country: United States
     country_code: US
   # coordinates:
